@@ -22,7 +22,7 @@ int main()
 		jnc unsign_norm;
 		mov d, 1;
 	unsign_norm:
-		nop;
+		//nop;
 		mov x, al;
 		mov y, al;
 	}
